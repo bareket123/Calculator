@@ -1,7 +1,7 @@
 # Calculator 🖩
 <h1>Description</h1>
 
-  A simple calculator, which you can do the following operations:
+A basic calculator program that allows you to perform the following operations:
 - Addition +
 - Double X
 - Divide /
